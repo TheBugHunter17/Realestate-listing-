@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Cozy Cottage",
+        "address": {
+            "street": "123 Main Street",
+            "city": "Springfield",
+            "state": "IL",
+            "zip_code": "62701"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 2,
+        "number_of_bathrooms": 1,
+        "number_of_garages": 0,
+        "price": "$800",
+        "picture": "./assets/img/property-1.jpg",
+        "area": 80
+    },
+    {
+        "id": 2,
+        "name": "Spacious Loft",
+        "address": {
+            "street": "456 Broadway",
+            "city": "New York",
+            "state": "NY",
+            "zip_code": "10012"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 1,
+        "number_of_bathrooms": 1,
+        "number_of_garages": 0,
+        "price": "$2,500",
+        "picture": "./assets/img/property-2.jpg",
+        "area": 120
+    },
+    {
+        "id": 3,
+        "name": "Modern Condo",
+        "address": {
+            "street": "789 Pine Street",
+            "city": "San Francisco",
+            "state": "CA",
+            "zip_code": "94108"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "number_of_garages": 1,
+        "price": "$3,000",
+        "picture": "./assets/img/property-3.jpg",
+        "area": 150
+    },
+    {
+        "id": 4,
+        "name": "Rustic Cabin",
+        "address": {
+            "street": "101 Lake Road",
+            "city": "Denver",
+            "state": "CO",
+            "zip_code": "80202"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 2,
+        "number_of_bathrooms": 1,
+        "number_of_garages": 0,
+        "price": "$1,200",
+        "picture": "./assets/img/property-4.jpg",
+        "area": 100
+    },
+    {
+        "id": 5,
+        "name": "Elegant Mansion",
+        "address": {
+            "street": "234 Park Avenue",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip_code": "90001"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 5,
+        "number_of_bathrooms": 4,
+        "number_of_garages": 2,
+        "price": "$10,000",
+        "picture": "./assets/img/property-5.jpg",
+        "area": 400
+    },
+    {
+        "id": 6,
+        "name": "Charming Bungalow",
+        "address": {
+            "street": "345 Elm Street",
+            "city": "Boston",
+            "state": "MA",
+            "zip_code": "02115"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 3,
+        "number_of_bathrooms": 2,
+        "number_of_garages": 1,
+        "price": "$2,000",
+        "picture": "./assets/img/property-6.jpg",
+        "area": 120
+    },
+    {
+        "id": 7,
+        "name": "Luxury Penthouse",
+        "address": {
+            "street": "678 Ocean Drive",
+            "city": "Miami",
+            "state": "FL",
+            "zip_code": "33139"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "number_of_garages": 2,
+        "price": "$8,000",
+        "picture": "./assets/img/property-7.jpg",
+        "area": 300
+    },
+    {
+        "id": 8,
+        "name": "Cozy Studio",
+        "address": {
+            "street": "910 Maple Street",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60611"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 1,
+        "number_of_bathrooms": 1,
+        "number_of_garages": 0,
+        "price": "$1,000",
+        "picture": "./assets/img/property-8.jpg",
+        "area": 50
+    },
+    {
+        "id": 9,
+        "name": "Classic Townhouse",
+        "address": {
+            "street": "111 Cherry Street",
+            "city": "Philadelphia",
+            "state": "PA",
+            "zip_code": "19103"
+        },
+        "type": "for rent",
+        "number_of_bedrooms": 4,
+        "number_of_bathrooms": 3,
+        "number_of_garages": 1,
+        "price": "$3,500",
+        "picture": "./assets/img/property-9.jpg",
+        "area": 200
+    },
+    {
+        "id": 10,
+        "name": "Coastal Cottage",
+        "address": {
+            "street": "456 Beach Road",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92109"
+        },
+        "type": "for rent",
+        "number of bedrooms": 2,
+        "number of bathrooms": 2,
+        "number of garages": 1,
+        "price": "$2,500",
+        "picture": "./assets/img/property-10.jpg",
+        "area": 100
+    }
+]
